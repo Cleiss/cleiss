@@ -8,10 +8,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning HTML, JS and CSS
 - 👯 I’m looking to collaborate on any projects
 - 🤔 I’m looking for help with CSS and JS
-- 💬 Ask me about anything
-- 📫 How to reach me: Here
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a sad brazilian guy, 'cause I was born in here! 😆
 
 
 <div align="center">
