@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning HTML, JS and CSS
+- 🌱 I’m currently learning Javascript, HTML and CSS
 - 👯 I’m looking to collaborate on any projects
 - 🤔 I’m looking for help with CSS and JS
 
